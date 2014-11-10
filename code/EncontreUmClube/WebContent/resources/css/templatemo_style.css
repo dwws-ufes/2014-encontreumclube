@@ -1,0 +1,559 @@
+/* templatemo.com 401 sprint */
+
+/* ==========================================================================
+    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+html,
+button,
+input,
+select,
+textarea {
+  color: #222;
+}
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.main-menu ul, .site-slider ul, ul.social {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.item-small, .item-large, .product-item .item-thumb {
+  overflow: hidden;
+}
+.item-small img, .item-large img, .product-item .item-thumb img {
+  width: 100%;
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+.ir {
+  background-color: transparent;
+  border: 0;
+  overflow: hidden;
+  *text-indent: -9999px;
+}
+
+.ir:before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 150%;
+}
+
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+/* ==========================================================================
+    Forms
+   ========================================================================== */
+form input[type="text"],
+form input[type="email"],
+form input[type="number"],
+form input[type="password"] {
+  background: #fff;
+  border: 1px solid #fff;
+  padding: 7px 10px;
+  /*width: 60%;*/
+}
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form input[type="number"]:focus,
+form input[type="password"]:focus {
+  outline: none !important;
+}
+form .button {
+  background: #fff;
+  border: 1px solid #fff;
+  padding: 7px 20px;
+  text-transform: uppercase;
+}
+form .button:focus, form .button:active {
+  outline: none !important;
+}
+form .button.yellow {
+  background: #e7af2a;
+  color: #fff;
+  border: 1px solid #c89316;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  /*
+   * Don't show links for images, or javascript/internal links
+   */
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+    /* h5bp.com/t */
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+/* ==========================================================================
+    Structure & Defaults
+   ========================================================================== */
+html, body {
+  font-size: 100%;
+  width: 100%;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  vertical-align: baseline;
+}
+
+body {
+  font: 13px/21px "Open Sans", Arial, sans-serif;
+  color: #838383;
+  background-color: white;
+}
+
+a {
+  color: #26b864;
+  text-decoration: none !important;
+  -webkit-transition: all 200ms ease-in;
+  -moz-transition: all 200ms ease-in;
+  -ms-transition: all 200ms ease-in;
+  -o-transition: all 200ms ease-in;
+  transition: all 200ms ease-in;
+}
+a:hover {
+  color: #f5a200;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", Arial, sans-serif;
+  color: #444444;
+}
+
+h1 {
+  font-size: 2.6em;
+}
+
+h2 {
+  font-size: 2.2em;
+}
+
+h3 {
+  font-size: 1.8em;
+}
+
+h4 {
+  font-weight: 600;
+  font-size: 22px;
+  color: #233a1a;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: .8em;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.section-title {
+  border-top: 1px solid #e1e6e9;
+  margin-top: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.section-title:before {
+  content: '';
+  width: 180px;
+  height: 3px;
+  background: url(../images/t-left.png) no-repeat center;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  display: inline-block;
+}
+.section-title:after {
+  content: '';
+  width: 180px;
+  height: 3px;
+  background: url(../images/t-right.png) no-repeat center;
+  margin-bottom: 10px;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.bigger-text {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+
+/* ==========================================================================
+    Header Site Styling
+   ========================================================================== */
+.site-header {
+  /*position: fixed;*/
+  min-height: 102px;
+  height: 102px;
+  width: 100%;
+  z-index: 9999;
+  /*background-color: #161616;
+  background-color: #472b28;*/
+  background-image: url(../images/desbravatopo.jpeg);
+  background-repeat: repeat;
+  background-position: center;
+}
+
+#templatemo_logo {
+  /*background-color: #26b864;*/
+  height: 102px;
+  display: block;
+}
+#templatemo_logo h1 {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  line-height: 102px;
+  display: block;
+}
+#templatemo_logo h1 a {
+  margin-left: 140px;
+  color: white;
+  display: block;
+}
+
+.main-menu {
+  text-align: right;
+  position: relative;
+}
+.main-menu ul {
+  position: absolute;
+  /*background-color: #161616;*/
+  width: 100%;
+}
+.main-menu ul li {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  line-height: 102px;
+}
+.main-menu ul li a {
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  outline: 0;
+  border: 0;
+  display: block;
+}
+.main-menu ul li a.current {
+  background: url(../images/active-state.png) no-repeat;
+  background-position: center 65px;
+}
+
+.toggle-menu {
+  display: none;
+  margin: 40px 35px 0 0;
+  font-size: 24px;
+  color: white;
+  text-align: right;
+}
+
+.responsive .main-menu {
+  display: none;
+}
+.responsive .main-menu ul li {
+  width: 100%;
+}
+.responsive .main-menu ul li a {
+  line-height: 55px;
+  padding: 10px 20px;
+}
+.responsive .main-menu ul li a.current {
+  background-image: none;
+  color: #26b864;
+  border-bottom: 0;
+}
+
+/* ==========================================================================
+   Locais + Mapa
+   ========================================================================== */
+#container {
+	width: 100%;
+	padding: 0;
+}
+
+#locais{
+	width: 25%;
+	height: 520px;
+	float: left;
+	box-shadow: 0px 0px 5px #666;
+}
+
+#locais #busca {
+	height: 60px;
+	background: #e7e6cf;
+	box-shadow: 0px 0px 5px #666;
+	padding: 10px;
+	box-shadow: 0;
+}
+
+#locais #resposta {
+	height: 100%;
+	width: 100%;
+}
+
+.inputTextSearch {
+	margin-left: 15px;
+	background: #fff;
+	border: 1px solid #fff;
+	//padding: 7px 10px;
+	width: 75%;
+}
+
+#busca .icon-search {
+	background-image: url("../images/icon-search.png") !important;
+	width: 40px;
+	height: 36px;
+	margin-top: -18px;
+	margin-left: -18px;
+}
+
+#mapa {
+	padding-left: 1px;
+	width: 75%;
+	float: right;
+}
+
+#gmap {
+    display: block;
+    width: 100%;
+    height: 520px;
+}
+
+#mapList {
+	/*list-style-image:none;
+	list-style-image: url('../images/icon.png');
+	list-style-position: 50% 50%;
+	padding-top: 5px;*/
+}
+
+#mapList li {
+  background: url('../images/icon.png') no-repeat left center;
+  padding: 3px 0 3px 35px;
+  /* reset styles (optional): */
+  list-style: none;
+  margin-left: -20px;
+  color: #838383;
+}
+
+
+/* ==========================================================================
+    Contact Styling
+   ========================================================================== */
+.site-footer {
+  width: 100%;
+  margin-top: 0px;
+  background-color: #233a1a;
+  color: white;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+}
+.site-footer a {
+  color: white;
+}
+.site-footer span {
+  margin: 6px 0 6px 0;
+  display: block;
+}
+
+/*------------------------------------------------------
+	RESPONSIVE STYLES 
+--------------------------------------------------------*/
+@media (max-width: 991px) {
+  .main-menu, .bx-thumbnail-wrapper {
+    display: none;
+  }
+
+  .toggle-menu {
+    display: block;
+  }
+
+  .site-header .container {
+    padding: 0;
+  }
+
+  .slider-caption {
+    bottom: 80px;
+  }
+
+  .bx-controls-direction {
+    bottom: 30px;
+  }
+
+  .section-title:after {
+    display: none;
+  }
+  .section-title:before {
+    display: none;
+  }
+
+  .main-menu {
+    display: none;
+    border-top: 1px solid #2f2f2f;
+    text-align: left;
+  }
+  .main-menu ul li {
+    padding: 0;
+    margin: 0;
+    display: block;
+    border-bottom: 1px solid #2f2f2f;
+  }
+  .main-menu ul li:last-child {
+    border-bottom: 0;
+  }
+  .main-menu ul li a {
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+    display: block;
+  }
+}
+@media (max-width: 767px) {
+  .section-title {
+    font-size: 24px;
+  }
+
+  .contact-form {
+    margin-top: 60px;
+  }
+
+  .item-large {
+    margin: 40px 0;
+  }
+
+  .slider-caption {
+    display: none;
+  }
+
+  #templatemo_logo h1 a {
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}

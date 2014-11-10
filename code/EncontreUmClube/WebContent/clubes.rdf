@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" > 
+  <rdf:Description rdf:about="http://localhost/encontreumclube/MENSAGEIROSDOREI">
+    <vcard:GEO>-20.38486;-40.372656</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A0"/>
+    <vcard:FN>MENSAGEIROS DO REI</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/CONQUISTADORESDOCAPARAO">
+    <vcard:GEO>-20.767009;-41.671167</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A1"/>
+    <vcard:FN>CONQUISTADORES DO CAPARAO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Treze de Maio, 100</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/BEMAVENTURADOS">
+    <vcard:GEO>-20.355732;-40.345813</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A3"/>
+    <vcard:FN>BEM AVENTURADOS</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <vcard:Pcode>29200000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua Minas Gerais</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua da Liberdade,99</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <vcard:Pcode>29560000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUACUI</vcard:Locality>
+    <vcard:Street>Rua Rio Grande do Norte, 279 CP 52</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <vcard:Pcode>29304507</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CACHOEIRO DE ITAPEMIRIM</vcard:Locality>
+    <vcard:Street>Rua Estrela do Norte, 24-ap 402</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <vcard:Pcode>29157298</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua 73, Lote 84</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <vcard:Pcode>29104450</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Girassol, 06</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAVITORIA">
+    <vcard:GEO>-20.647684;-40.499257</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A9"/>
+    <vcard:FN>PORTADORES DA VITORIA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <vcard:Pcode>29312220</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CACHOEIRO DE ITAPEMIRIM</vcard:Locality>
+    <vcard:Street>Rua Joao Antonio Vasques, 35</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/DUQUEDECAXIASDB">
+    <vcard:GEO>-20.355632;-40.354846</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A11"/>
+    <vcard:FN>DUQUE DE CAXIAS DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <vcard:Pcode>29112730</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Jacupemba, 229</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/SOLDADOSDECRISTODB">
+    <vcard:GEO>-20.335694;-40.363236</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A13"/>
+    <vcard:FN>SOLDADOS DE CRISTO DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/GUERREIROSDAPAZ">
+    <vcard:GEO>-21.010924;-40.810157</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A14"/>
+    <vcard:FN>GUERREIROS DA PAZ</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OATALAIA">
+    <vcard:GEO>-20.851894;-41.112968</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A6"/>
+    <vcard:FN>O ATALAIA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <vcard:Pcode>29156035</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Joao Rodrigues Filho, 34</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <vcard:Pcode>29112650</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua da Serraria, 74</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDACONQUISTA">
+    <vcard:GEO>-20.678161;-40.508247</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A17"/>
+    <vcard:FN>PORTADORES DA CONQUISTA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ELSHADAY">
+    <vcard:GEO>-20.853879;-41.150561</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A10"/>
+    <vcard:FN>EL SHADAY</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <vcard:Pcode>29216000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua Santo Amaro, 104</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <vcard:Pcode>29142030</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Duque de Caxias, 38</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/CASTORES">
+    <vcard:GEO>-20.349757;-40.314592</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A20"/>
+    <vcard:FN>CASTORES</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A21">
+    <vcard:Pcode>29140700</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Jerusalem, S/N</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A22">
+    <vcard:Pcode>29615000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>LARANJA DA TERRA</vcard:Locality>
+    <vcard:Street>Rua Carlos Stabenow, 425</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua l, 150</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A20">
+    <vcard:Pcode>29108630</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Praca Assis Chateaubriand, 358</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A23">
+    <vcard:Pcode>29157329</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua 61, Q 82, 3</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A24">
+    <vcard:Pcode>29300970</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CACHOEIRO DE ITAPEMIRIM</vcard:Locality>
+    <vcard:Street>Av. Francisco Cabral da Fonseca, 80</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAALIANCA">
+    <vcard:GEO>-20.665031;-40.510887</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A25"/>
+    <vcard:FN>PORTADORES DA ALIANCA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ROCHAEMCRISTO">
+    <vcard:GEO>-19.897018;-41.060913</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A22"/>
+    <vcard:FN>ROCHA EM CRISTO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/MARECHALRONDON">
+    <vcard:GEO>-20.345653;-40.378128</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A26"/>
+    <vcard:FN>MARECHAL RONDON</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A27">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Aimores, S/N</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <vcard:Pcode>29200000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua joaquim Santana, 245</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <vcard:Pcode>29111141</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Floralia, 217</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ORIOMDB">
+    <vcard:GEO>-20.389627;-40.373965</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A5"/>
+    <vcard:FN>ORIOM DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/UNIDOSDOMONTE">
+    <vcard:GEO>-20.264733;-40.411087</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A15"/>
+    <vcard:FN>UNIDOS DO MONTE</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A25">
+    <vcard:Pcode>29210150</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua da Marinha, 584</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A28">
+    <vcard:Pcode>29151260</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Demostenes Nunes Vieira, 26</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/CONQUISTADORESDANATUREZA">
+    <vcard:GEO>-20.071693;-41.126124</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A29"/>
+    <vcard:FN>CONQUISTADORES DA NATUREZA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A30">
+    <vcard:Pcode>29135000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VIANA</vcard:Locality>
+    <vcard:Street>Rua Barbacena, 2 Q 72</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PIONEIROSDOVALE">
+    <vcard:GEO>-20.369472;-40.352851</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A31"/>
+    <vcard:FN>PIONEIROS DO VALE</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/TERRA">
+    <vcard:GEO>-20.371343;-40.378707</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A32"/>
+    <vcard:FN>TERRA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/NOVAGERACAO">
+    <vcard:GEO>-20.254829;-40.385166</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A7"/>
+    <vcard:FN>NOVA GERACAO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <vcard:Pcode>29345000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>MARATAIZES</vcard:Locality>
+    <vcard:Street>Av. Simao Soares, 631</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A32">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Celestino de Almeida, 49</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A33">
+    <vcard:Pcode>29120002</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Estrada Jeronimo Monteiro, 2014</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAPAZ">
+    <vcard:GEO>-20.640857;-40.518526</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A4"/>
+    <vcard:FN>PORTADORES DA PAZ</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/HORIZONTE">
+    <vcard:GEO>-20.357261;-40.403427</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A27"/>
+    <vcard:FN>HORIZONTE</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A29">
+    <vcard:Pcode>29600000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>AFONSO CLAUDIO</vcard:Locality>
+    <vcard:Street>Otavio Saiter, 82</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <vcard:Pcode>20112160</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Platino, 26</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAGLORIA">
+    <vcard:GEO>-20.645033;-40.514921</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A18"/>
+    <vcard:FN>PORTADORES DA GLORIA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OSOLDAJUSTICA">
+    <vcard:GEO>-20.260265;-40.379652</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A23"/>
+    <vcard:FN>O SOL DA JUSTICA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A34">
+    <vcard:Pcode>29140000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Av. Uniao</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ESTRELASDOMAR">
+    <vcard:GEO>-20.36392;-40.322102</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A8"/>
+    <vcard:FN>ESTRELAS DO MAR</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A31">
+    <vcard:Pcode>29113010</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Aguia Branca, 07</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ROMPENDOEMFE">
+    <vcard:GEO>-20.259902;-40.390874</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A34"/>
+    <vcard:FN>ROMPENDO EM FE</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAFEDB">
+    <vcard:GEO>-20.671757;-40.522109</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A35"/>
+    <vcard:FN>PORTADORES DA FE DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A36">
+    <vcard:Pcode>29200000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua da Marinha, S/N</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/DEFENSORESDANATUREZA">
+    <vcard:GEO>-20.338893;-40.311116</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A33"/>
+    <vcard:FN>DEFENSORES DA NATUREZA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/MENSAGEIROSDOADVENTO">
+    <vcard:GEO>-20.340804;-40.4313</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A30"/>
+    <vcard:FN>MENSAGEIROS DO ADVENTO</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A37">
+    <vcard:Pcode>29200000</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Av. Sao Paulo, 755</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ATOS">
+    <vcard:GEO>-20.368124;-40.361219</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A16"/>
+    <vcard:FN>ATOS</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/SEMENTEVIVA">
+    <vcard:GEO>-20.324024;-40.36863</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A21"/>
+    <vcard:FN>SEMENTE VIVA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A35">
+    <vcard:Pcode>29203410</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua Tiradentes, 02</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A38">
+    <vcard:Pcode>29143213</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Pedro Francisco de Paula</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A39">
+    <vcard:Pcode>29100250</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Gloria, 291</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/SIRIUSALVORADA">
+    <vcard:GEO>-20.331951;-40.371476</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A28"/>
+    <vcard:FN>SIRIUS ALVORADA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A40">
+    <vcard:Pcode>29301090</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CACHOEIRO DE ITAPEMIRIM</vcard:Locality>
+    <vcard:Street>Rua Capitao Jose Vieira, 19</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/ASASDEVITORIA">
+    <vcard:GEO>-20.346679;-40.368601</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A2"/>
+    <vcard:FN>ASAS DE VITORIA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A26">
+    <vcard:Pcode>29146718</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua Turmalina, 13</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/GUARDIOESDANATUREZA">
+    <vcard:GEO>-20.332696;-40.309292</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A39"/>
+    <vcard:FN>GUARDIOES DA NATUREZA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A41">
+    <vcard:Pcode>29119290</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Ary Barroso, 216</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OSVALDENSES">
+    <vcard:GEO>-20.354002;-40.350834</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A42"/>
+    <vcard:FN>OS VALDENSES</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/LUZESDAAURORA">
+    <vcard:GEO>-20.665533;-40.508097</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A36"/>
+    <vcard:FN>LUZES DA AURORA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OSBANDEIRANTESDB">
+    <vcard:GEO>-20.347806;-40.367635</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A19"/>
+    <vcard:FN>OS BANDEIRANTES DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/RIGEL">
+    <vcard:GEO>-20.345432;-40.346457</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A12"/>
+    <vcard:FN>RIGEL</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <vcard:Pcode>29214990</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>GUARAPARI</vcard:Locality>
+    <vcard:Street>Rua G, Quadra 08, Lote 03</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A42">
+    <vcard:Pcode>29111150</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>VILA VELHA</vcard:Locality>
+    <vcard:Street>Rua Otavio Borin, 271</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/YAVEH">
+    <vcard:GEO>-20.840203;-41.124984</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A40"/>
+    <vcard:FN>YAVEH</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OITABIRA">
+    <vcard:GEO>-20.833545;-41.150325</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A24"/>
+    <vcard:FN>O ITABIRA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/OSPIONEIROSDACOLINADB">
+    <vcard:GEO>-20.344064;-40.322982</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A41"/>
+    <vcard:FN>OS PIONEIROS DA COLINA DB</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <vcard:Pcode>29140090</vcard:Pcode>
+    <vcard:Country>Brasil</vcard:Country>
+    <vcard:Region>ESPIRITO SANTO</vcard:Region>
+    <vcard:Locality>CARIACICA</vcard:Locality>
+    <vcard:Street>Rua PiauI, 16</vcard:Street>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/PORTADORESDAJUSTICA">
+    <vcard:GEO>-20.637684;-40.509621</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A37"/>
+    <vcard:FN>PORTADORES DA JUSTICA</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://localhost/encontreumclube/GUARDIOESDAFE">
+    <vcard:GEO>-20.355189;-40.368773</vcard:GEO>
+    <vcard:ADR rdf:nodeID="A38"/>
+    <vcard:FN>GUARDIOES DA FE</vcard:FN>
+  </rdf:Description>
+</rdf:RDF>

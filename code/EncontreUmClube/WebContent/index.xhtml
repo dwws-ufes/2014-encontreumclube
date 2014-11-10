@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<ui:composition xmlns="http://www.w3.org/1999/xhtml" 
+  				xmlns:ui="http://java.sun.com/jsf/facelets"  
+  				xmlns:f="http://java.sun.com/jsf/core"  
+  				xmlns:h="http://java.sun.com/jsf/html"  
+  				template="/resources/decorator.xhtml"
+  				xmlns:p="http://primefaces.org/ui"
+      			xmlns:pt="http://xmlns.jcp.org/jsf/passthrough">  
+ 
+  
+  		<!-- Campo de Pesquisa -->  
+  		<ui:define name="busca">
+  		  <h:form>			
+  			<p:inputText class="inputTextSearch" id="address" />
+  			<p:commandButton icon="icon-search" style="margin-left: 5px" onclick="codeAddress()" />
+  			
+  		  </h:form>
+  		</ui:define>
+  		
+  		<!-- Campo de Resposta -->
+  		<ui:define name="resposta">	
+	  		<p:scrollPanel mode="native" style="width:100%;height:100%">  		
+	  			<ul id="mapList"></ul>
+	  		</p:scrollPanel>
+  		</ui:define>
+    
+    <ui:define name="mapa"> 
+    <div id="gmap"></div>		
+    </ui:define>
+    
+</ui:composition>  
+
